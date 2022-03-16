@@ -1,0 +1,83 @@
+.body{
+    color: black;
+    background-color: aqua;
+}
+.menu{
+    border: rgb(255, 255, 255) 2px solid;
+    text-align: center;
+    border-radius: 11px;
+}
+.tudo{
+    display: flex;
+    align-content: center;
+    justify-content: space-around; /*Usado para dar espaçamento entre as imagens*/
+    margin-top: 130px;
+    width: 100%;
+}
+.imagens{
+    width: 250px;
+    height: 250px;
+}
+.nome{
+    text-align: center;
+    font-size: x-large;
+    font-style: oblique;
+}
+
+
+
+.body1 {
+    background-image: url("../Images/fundo.jfif")
+   
+   
+   }
+
+
+#fel {
+
+    text-align: center;
+
+}
+
+
+
+#h{
+	width:50%;
+	height:100px;
+	margin-left:2%;
+	margin-top:5px;
+	position:center;
+	color:white;
+	font-size:15px;
+	background-color:rgba(194, 8, 8, 0.87);
+}
+
+
+.body2 {
+    background-image: url("../Imagens/wall.jpg")
+   
+   
+   }
+
+   
+#g{
+	width:20%;
+	height:30px;
+	margin-left:0%;
+	margin-top:10px;
+	position:center;
+	color:white;
+	font-size:20px;
+	background-color:rgba(175, 7, 7, 0.795);
+}
+
+#rodape{
+	width:20%;
+	height:20px;
+	margin-left:0%;
+	margin-top:10px;
+	position:center;
+	color:white;
+	font-size:15px;
+	background-color:rgba(0, 0, 0, 0.795);
+}
